@@ -1,3 +1,5 @@
+// Broken Conditional
+
 function checkScore(score) {
   if (score >= 50) { //score ki 50 ceye boro naki 50 er soman
     return "Pass";
